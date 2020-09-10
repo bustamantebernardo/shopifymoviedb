@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopifymoviedb/static/css/main.0d0ac7ab.chunk.css",
+    "main.js": "/shopifymoviedb/static/js/main.6180bb0b.chunk.js",
+    "main.js.map": "/shopifymoviedb/static/js/main.6180bb0b.chunk.js.map",
+    "runtime-main.js": "/shopifymoviedb/static/js/runtime-main.815d367c.js",
+    "runtime-main.js.map": "/shopifymoviedb/static/js/runtime-main.815d367c.js.map",
+    "static/js/2.a7a6cab9.chunk.js": "/shopifymoviedb/static/js/2.a7a6cab9.chunk.js",
+    "static/js/2.a7a6cab9.chunk.js.map": "/shopifymoviedb/static/js/2.a7a6cab9.chunk.js.map",
+    "index.html": "/shopifymoviedb/index.html",
+    "precache-manifest.094e3f979bbdb6107cb84729686c5636.js": "/shopifymoviedb/precache-manifest.094e3f979bbdb6107cb84729686c5636.js",
+    "service-worker.js": "/shopifymoviedb/service-worker.js",
+    "static/css/main.0d0ac7ab.chunk.css.map": "/shopifymoviedb/static/css/main.0d0ac7ab.chunk.css.map",
+    "static/js/2.a7a6cab9.chunk.js.LICENSE.txt": "/shopifymoviedb/static/js/2.a7a6cab9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.815d367c.js",
+    "static/js/2.a7a6cab9.chunk.js",
+    "static/css/main.0d0ac7ab.chunk.css",
+    "static/js/main.6180bb0b.chunk.js"
+  ]
+}
